@@ -46,5 +46,5 @@ I build **high-quality, maintainable code** that scales. I enjoy collaborating o
 
 ## 📫 Contact Me
 - Email: `philipx047@gmail.com`  
-- LinkedIn: [[linkedin.com/in/alexanderoluwadare](https://linkedin.com/in/alexanderoluwadare) ](https://www.linkedin.com/in/alex-philip-4930b8296/?originalSubdomain=ng) 
+- LinkedIn: (https://www.linkedin.com/in/alex-philip-4930b8296/?originalSubdomain=ng) 
 - GitHub: [github.com/Alexander-cre](https://github.com/Alexander-cre)  
