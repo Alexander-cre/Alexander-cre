@@ -22,9 +22,9 @@ Hi! I’m Alexander, a passionate **full-stack developer** building modern, scal
 | **ChatUp** | React, Firebase, Node.js | Real-time chat app with Google Auth, online/offline status, and user profile pages. |
 | **Portfolio ERP** | Angular, NestJS, PostgreSQL | Full-featured ERP with modules for Inventory, Clients, Sales, Finance, HR, and Reports. |
 | **Music App** | Flutter | Local music player with playlist management and song thumbnails. |
-| **Caregiver site** | Flutter | Local music player with playlist management and song thumbnails. |
-| **Fullstack Java Springboot** | Flutter | Local music player with playlist management and song thumbnails. |
-| **Django Ecommerce** | Flutter | Local music player with playlist management and song thumbnails. |
+| **Caregiver site** | ReactJS, Node.js ,ExpressJS| Unique and powerful frontend application to give access to adequate and quality care to those in need. |
+| **Fullstack Java Springboot** | ReactJs, Java, Springboot | Using the power of robust and scalable Java to build enterprise app. |
+| **Django Ecommerce** | ReactJs, Django, Mysqlite | Local Fullstack with CRM Ecommerce Business web app. |
 
 > More projects on my GitHub: [github.com/Alexander-cre](https://github.com/Alexander-cre)
 
