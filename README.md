@@ -122,4 +122,3 @@ I’m open to:
 ---
 
 ⭐ *If you like my work, feel free to star my repositories!*
-777
