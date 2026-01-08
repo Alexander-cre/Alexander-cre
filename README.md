@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Software Engineer**  
 🌍 Building scalable, real-time web & mobile applications  
-💡 Focused on clean architecture, performance, and great UX
+💡 Focused on clean architecture, performance, and great UI/UX
 
 ---
 
