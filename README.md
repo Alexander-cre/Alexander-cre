@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alexander Oluwadare Philip
+# 👋 Hi, I’m Alexander Philip
 
 🚀 **Full-Stack Software Engineer**  
 🌍 Building scalable, real-time web & mobile applications  
